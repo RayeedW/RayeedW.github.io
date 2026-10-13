@@ -93,6 +93,10 @@ figure {
   border: 1px solid black;
 }
 
+figure img {
+  display: block;
+}
+
 figcaption {
   font-size: 0.6em;
 }
